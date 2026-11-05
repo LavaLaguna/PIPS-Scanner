@@ -78,3 +78,5 @@ NOTES
 BUILDING
   Run build.sh with a recent Zig C compiler (x86 and x64 Windows GNU targets).
   SQLite source is included under vendor/sqlite.
+
+Support Email: webmastersharp94@gmail.com
