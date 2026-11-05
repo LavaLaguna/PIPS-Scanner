@@ -1,0 +1,47 @@
+# Compiled executables
+*.exe
+*.dll
+*.pdb
+*.obj
+*.o
+
+# User settings and credentials
+*.ini
+*.db
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite3
+*.pipsbackup
+*.bak
+portable.flag
+
+# Logs
+*.log
+*.tmp
+
+# Build directories
+build/
+dist/
+Debug/
+Release/
+x64/
+x86/
+
+# IDE files
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Operating system
+Thumbs.db
+.DS_Store
+
+# Local runtime data
+Data/
